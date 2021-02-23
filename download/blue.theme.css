@@ -1,0 +1,57 @@
+/**
+ * @name Blue Theme
+ * @author ! 𝕂𝔂𝔪𝐳⚡ 𝑀𝑒𝓇𝓉 𝒦𝓎𝓂𝓏#6365
+ * @version 2.0.0
+ * @description Sadece Mavi :) | Blue only :)
+ * @invite WsRAmVyw4W
+ * @authorId 441584099254075393
+ * @source https://github.com/MertKaymaz35/blue-theme
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://i.mrtkymz.ml/is/discord-themes/blue-theme/img/background.jpg');
+  --background-image-blur: 22px;
+  --background-image-size: cover;
+  --background-image-position: center center;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 10px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.84;
+  --left-brightness: 0.82;
+  --middle-brightness: 0.58;
+  --right-brightness: 0.26;
+  --popout-modal-brightness: 0.86;
+  --gradient-primary: 0,145,212;
+  --gradient-secondary: 0,58,166;
+  --scrollbar-colour: rgba(137,137,137,0.25);
+  --link-colour: #00a6ff;
+  --gradient-direction: 80deg;
+  --tint-colour: 0,117,118;
+  --tint-brightness: 0.02;
+  --font: 'Whitney';
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 1px;
+  --rs-width: 2.5px;
+  --rs-avatar-shape: 26%;
+  --rs-online-color: #00ffd6;
+  --rs-idle-color: #00532f;
+  --rs-dnd-color: #0061ff;
+  --rs-offline-color: #9a9ea3;
+  --rs-streaming-color: #1e0bd1;
+  --rs-invisible-color: #747f8d;
+}
